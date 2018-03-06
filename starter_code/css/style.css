@@ -96,6 +96,7 @@ h2 {
    margin-top: 100px;
    font-family: 'Open Sans', sans-serif; 
    font-weight: semibold;
+
 }
 
 a{
@@ -139,6 +140,11 @@ ul {
 #benefits {
   color:black;
   padding-right: 700px;
+  background:  #f0efef;
+  width:200px
+  height 200px;
+  padding: 10px;
+  font-family: 'Open Sans', sans-serif
 }
 .words {
   font-family: 'Open Sans', sans-serif
