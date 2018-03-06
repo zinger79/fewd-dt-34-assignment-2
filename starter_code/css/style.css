@@ -80,7 +80,7 @@ footer {
 /*******************************************/
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   color: white;
   margin-left:50px;
   margin-top:10px;
@@ -95,12 +95,16 @@ h2 {
    text-align: center;
    margin-top: 100px;
    font-family: 'Open Sans', sans-serif; 
+   font-weight: semibold;
 }
 
 a{
     font-size: 20px;
     color: black;
     text-decoration: none;   
+    font-weight: bold;
+    margin: 50px;
+  
 }
 
 footer {
