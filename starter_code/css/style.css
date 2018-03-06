@@ -117,5 +117,41 @@ footer {
 .flex-row {
   text-align: center;
 }
-
+p {
+  font-family: 'Open Sans', sans-serif
+  font-weight: light;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.benefits-container {
+  display: flex;
+  justify-content: center;
+}
+ul {
+  font-family: 'Open Sans', sans-serif
+  font-weight: light;
+  padding: 50px;
+  padding-left: 200px;
+  font-size: 20px;
+}
+#benefits {
+  color:black;
+  padding-right: 700px;
+}
+.words {
+  font-family: 'Open Sans', sans-serif
+  font-weight: light;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
+.name {
+  font-family: 'Open Sans', sans-serif
+  font-weight: light;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
 
