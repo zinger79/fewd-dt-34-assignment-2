@@ -98,21 +98,24 @@ h2 {
    font-weight: semibold;
 
 }
+h4 {
+  font-family: 'Open Sans', sans-serif; 
+  font-weight:bold;
+}
 
 a{
     font-size: 20px;
-    color: black;
+    color: #121212;
     text-decoration: none;   
     font-weight: bold;
     padding: 50px 0;
     display: inline-block;
-  
 }
 
 footer {
   color:white;
   text-align: center;
-  font-size:12px;
+  font-size:9px;
   font-weight: bold;
 }
 .flex-row {
@@ -125,10 +128,12 @@ p {
   display: flex;
   justify-content: center;
   padding: 10px;
+  font-style: italic;
 }
 .benefits-container {
   display: flex;
   justify-content: center;
+  color:#121212;
 }
 ul {
   font-family: 'Open Sans', sans-serif
@@ -138,12 +143,12 @@ ul {
   font-size: 20px;
 }
 #benefits {
-  color:black;
+  color:#121212;
   padding-right: 700px;
   background:  #f0efef;
   width:200px
   height 200px;
-  padding: 10px;
+  padding: 300px;
   font-family: 'Open Sans', sans-serif
 }
 .words {
@@ -152,12 +157,19 @@ ul {
   font-size: 20px;
   display: flex;
   justify-content: center;
+  color: #606161;
 }
 .name {
-  font-family: 'Open Sans', sans-serif
+  font-family: 'Open Sans', sans-serif;
   font-weight: light;
   font-size: 20px;
   display: flex;
   justify-content: center;
+  color: #606161;
 }
-
+#bottom-relaxer {
+  color: #f9e42e;
+}
+.signupnow {
+  color: #606161;
+}
